@@ -1,0 +1,16 @@
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.AssemblyInfo.cs
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\SocketServer.Form1.resources
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\bin\Debug\net10.0-windows\Server.exe
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\bin\Debug\net10.0-windows\Server.deps.json
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\bin\Debug\net10.0-windows\Server.runtimeconfig.json
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\bin\Debug\net10.0-windows\Server.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\bin\Debug\net10.0-windows\Server.pdb
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\refint\Server.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.pdb
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\Server.genruntimeconfig.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\Server\obj\Debug\net10.0-windows\ref\Server.dll
