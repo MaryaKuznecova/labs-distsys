@@ -1,0 +1,17 @@
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.Form1.resources
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.AssemblyInfo.cs
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.sourcelink.json
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\bin\Debug\net10.0-windows\udp_chat_WinFormsApp.exe
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\bin\Debug\net10.0-windows\udp_chat_WinFormsApp.deps.json
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\bin\Debug\net10.0-windows\udp_chat_WinFormsApp.runtimeconfig.json
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\bin\Debug\net10.0-windows\udp_chat_WinFormsApp.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\bin\Debug\net10.0-windows\udp_chat_WinFormsApp.pdb
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\refint\udp_chat_WinFormsApp.dll
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.pdb
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\udp_chat_WinFormsApp.genruntimeconfig.cache
+C:\Users\Latenight\Desktop\projects\labs-distr-sys\lab4\task5\udp_chat_WinFormsApp\obj\Debug\net10.0-windows\ref\udp_chat_WinFormsApp.dll
