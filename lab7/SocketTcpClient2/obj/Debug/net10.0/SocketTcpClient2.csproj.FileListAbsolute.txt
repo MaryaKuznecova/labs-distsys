@@ -1,0 +1,14 @@
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\bin\Debug\net10.0\SocketTcpClient2.exe
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\bin\Debug\net10.0\SocketTcpClient2.deps.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\bin\Debug\net10.0\SocketTcpClient2.runtimeconfig.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\bin\Debug\net10.0\SocketTcpClient2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\bin\Debug\net10.0\SocketTcpClient2.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.AssemblyInfoInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.AssemblyInfo.cs
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\refint\SocketTcpClient2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\SocketTcpClient2.genruntimeconfig.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient2\obj\Debug\net10.0\ref\SocketTcpClient2.dll

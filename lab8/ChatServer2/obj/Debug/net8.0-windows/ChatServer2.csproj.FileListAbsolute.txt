@@ -1,0 +1,14 @@
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\bin\Debug\net8.0-windows\ChatServer2.exe
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\bin\Debug\net8.0-windows\ChatServer2.deps.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\bin\Debug\net8.0-windows\ChatServer2.runtimeconfig.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\bin\Debug\net8.0-windows\ChatServer2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\bin\Debug\net8.0-windows\ChatServer2.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.AssemblyInfoInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.AssemblyInfo.cs
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\refint\ChatServer2.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ChatServer2.genruntimeconfig.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatServer2\obj\Debug\net8.0-windows\ref\ChatServer2.dll

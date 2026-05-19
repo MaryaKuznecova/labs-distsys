@@ -1,0 +1,14 @@
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.exe
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.deps.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.runtimeconfig.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.AssemblyInfoInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.AssemblyInfo.cs
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\refint\SocketTcpClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.genruntimeconfig.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\SocketTcpClient\obj\Debug\net10.0\ref\SocketTcpClient.dll

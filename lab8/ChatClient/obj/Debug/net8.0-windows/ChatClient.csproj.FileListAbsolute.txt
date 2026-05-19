@@ -1,0 +1,14 @@
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\bin\Debug\net8.0-windows\ChatClient.exe
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\bin\Debug\net8.0-windows\ChatClient.deps.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\bin\Debug\net8.0-windows\ChatClient.runtimeconfig.json
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\bin\Debug\net8.0-windows\ChatClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\bin\Debug\net8.0-windows\ChatClient.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfoInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.AssemblyInfo.cs
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\refint\ChatClient.dll
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.pdb
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ChatClient.genruntimeconfig.cache
+C:\Users\max\OneDrive\Документы\Sharaga\Сети\Лаб-4\ChatClient\obj\Debug\net8.0-windows\ref\ChatClient.dll
